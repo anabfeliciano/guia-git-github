@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Apresentar uma introdução prática ao Git e ao GitHub para organização e versionamento de projetos.
+Ensinar os fundamentos de Git e GitHub para estudantes iniciantes por meio de exemplos práticos, apresentando comandos essenciais, commits, branches, repositórios remotos e Pull Requests.
 
 ## Público-alvo
 
